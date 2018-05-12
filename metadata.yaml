@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Johannes_Schlaf
     - http://www.gutenberg.org/ebooks/author/1517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39678#In-Dingsda
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-05-12'
 gutenberg_type: Text
