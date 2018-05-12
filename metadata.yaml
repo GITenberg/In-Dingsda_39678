@@ -1,0 +1,33 @@
+_repo: In-Dingsda_39678
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39678-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schlaf, Johannes
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '1518'
+    url: http://www.gutenberg.org/2009/agents/1518
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Johannes_Schlaf
+    - http://www.gutenberg.org/ebooks/author/1517
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39678'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature'
+- !lcc 'PT'
+tableOfContents: Vorwort -- Abseits -- Rendezvous -- Die Rezension -- Einsamkeit --
+  Lektüre -- Feierabend -- Siesta -- Kirchgang -- Helle Nacht -- Dämmerstunde -- Zwischen
+  Papieren -- Nach einem Begräbnis -- Im Wind -- Abschied.
+title: In Dingsda
+url: http://www.gutenberg.org/ebooks/39678
